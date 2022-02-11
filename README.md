@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mj957
-- 👀 I’m interested in ...building car ECUs/emgine management
+- 👀 I’m interested in ...building car ECUs/engine management
 - 🌱 I’m currently learning ... trying to learn ardino programming
 - 💞️ I’m looking to collaborate on ... building an engine management unit
 - 📫 How to reach me ...
